@@ -32,7 +32,7 @@
 
 .mensaje{
     background: white;
-    background-image: url("/img/Muñeco.png");
+    background-image: url("./img/Muñeco.png");
     background-position: center;
     background-size: 80%;
     background-repeat: no-repeat;
